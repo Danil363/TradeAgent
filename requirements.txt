@@ -1,0 +1,17 @@
+numpy
+pandas
+
+scikit-learn
+tqdm
+
+torch
+
+matplotlib
+seaborn
+
+yfinance
+python-dateutil
+python-dotenv
+
+gymn
+stable-baselines3
