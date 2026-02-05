@@ -28,5 +28,10 @@ making the system modular and extensible.
 
 ---
 
-## 🧠 System Architecture
+
+## Disclaimer
+
+This project is for **educational and research purposes only**.
+It is not financial advice and should not be used for real trading
+without proper validation and risk management.
 
